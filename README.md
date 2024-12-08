@@ -39,31 +39,8 @@ Créer un projet Spring Boot avec les dépendances suivantes :
 ## Structure du projet
 
 Le projet est organisé selon l'architecture suivante :
-src/main/java/nfad/maryam/ebank_account_service/
-├── dto/
-│ ├── BankAccountRequestDTO.java
-│ └── BankAccountResponseDTO.java
-├── entities/
-│ ├── BankAccount.java
-│ ├── AccountProjection.java
-│ └── Customer.java
-├── enums/
-│ └── AccountType.java
-├── exceptions/
-│ └── CustomDataFetcherExceptionResolver.java
-├── mappers/
-│ └── AccountMapper.java
-├── repositories/
-│ ├── BankAccountRepository.java
-│ └── CustomerRepository.java
-├── service/
-│ ├── AccountService.java
-│ └── AccountServiceImpl.java
-└── web/
-└── AccountRestController.java
-└── BankAccountGraphQLController.java
-![Capture d'écran](../images/image.png "Capture relative")
-![Capture d'écran](../images/image.png "Capture relative")
+![Capture d'écran](images/1.png "Capture relative")
+![Capture d'écran](images/2.png "Capture relative")
 ## Étapes de réalisation
 
 ### 1. Création du projet Spring Boot
