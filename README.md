@@ -386,6 +386,8 @@ currency : String,
 type : String
 }
 ```
+
+<img src="images/6.png" width="600px">
 ### Pour Accéder : 
 
 H2 Console : http://localhost:8883/h2-console
