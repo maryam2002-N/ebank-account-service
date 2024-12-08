@@ -25,7 +25,7 @@ Ce projet est un exemple de microservice développé avec Spring Boot pour gére
 
 ## Étapes du TP
 
-### 1. Création du projet
+###  Création du projet
 
 Créer un projet Spring Boot avec les dépendances suivantes :
 - **Spring Web**
@@ -39,8 +39,8 @@ Créer un projet Spring Boot avec les dépendances suivantes :
 ## Structure du projet
 
 Le projet est organisé selon l'architecture suivante :
-<img src="images/1.png" width="500px">
-<img src="images/2.png" width="500px">
+<img src="images/1.png" width="600px">
+<img src="images/2.png" width="600px">
 
 ## Étapes de réalisation
 
@@ -164,8 +164,8 @@ public class EbankAccountServiceApplication {
 	}
 }
 ```
-<img src="images/3.png" width="500px">
-<img src="images/4.png" width="500px">
+<img src="images/3.png" width="600px">
+<img src="images/4.png" width="600px">
 
 ### DTOs et Mappers
 ```java
@@ -348,7 +348,7 @@ DELETE /api/accounts/{id} : Supprime un compte
 
 ###  Documentation OpenAPI/Swagger
 URL de la documentation Swagger : http://localhost:8883/swagger-ui.html
-<img src="images/5.png" width="500px">
+<img src="images/5.png" width="600px">
 
 ### API GraphQL
 #### Schéma GraphQL
