@@ -39,8 +39,10 @@ Créer un projet Spring Boot avec les dépendances suivantes :
 ## Structure du projet
 
 Le projet est organisé selon l'architecture suivante :
-![Capture d'écran](/images/1.png "Capture relative")
-![Capture d'écran](/images/2.png "Capture relative")
+<img src="images/1.png">
+<img src="images/2.png">
+![Capture](/images/1.png "Capture relative")
+![Capture](/images/2.png "Capture relative")
 ## Étapes de réalisation
 
 ### 1. Création du projet Spring Boot
